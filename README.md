@@ -10,7 +10,8 @@ python -O -OO asteroids.py --stop-timers
 
 The available commands are indicated in the .bat file.
 The image and sound asset directories can be created automatically by using:
-python asteroids.py --save-downloaded-medias --print-load-medias 
+python asteroids.py --save-downloaded-medias --print-load-medias
+or downloaded from this repository.
 
 If you like this game, I have developed an enhanced version for Android, available for free on Google Play:
 https://play.google.com/store/apps/details?id=arnaud.desombre.asteroidwarfree
