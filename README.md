@@ -3,7 +3,7 @@ Game of Asteroids
 
 This game was developed for Joe Warren, John Greiner, Stephen Wong and Scott Rixner's Coursera class "Interactive Programming in Python", and designed to work in CodeSkulptor (www.codeskulptor.org).
 
-Olivier Pirson has developed a SimpleGUICS2Pygame module to translate CodeSkulptor to Pygame. Asteroids requires Python 2, SimpleGUICS2Pygame (pip install SimpleGUICS2Pygame), and Pygame.
+Olivier Pirson has developed a SimpleGUICS2Pygame module to translate CodeSkulptor to Pygame. Asteroids requires Python 2, SimpleGUICS2Pygame (pip install SimpleGUICS2Pygame), and Pygame (from http://www.pygame.org/download.shtml).
 
 Asteroids.bat launches the game with the command:<br>
 <i>python -O -OO asteroids.py --stop-timers</i>
