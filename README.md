@@ -18,7 +18,7 @@ The image and sound asset directories can be created automatically by using:
 or simply downloaded from this repository.
 
 
-If you like this game, I have developed an enhanced version for Android, available for free on [Google Play](https://play.google.com/store/apps/details?id=arnaud.desombre.asteroidwarfree):
+If you like this game, I have developed an enhanced version for Android, available on [Google Play](https://play.google.com/store/apps/details?id=arnaud.desombre.asteroidwar) (free, ad-free, application tracker free) :
 
 ![Asteroid War - screeshot](https://lh4.ggpht.com/5cyx5tUocH09zi6kMsv75kGYhlPr-OYphOw-mMHmwJKkOOVSE9xFRx4WPx0lqa177B8=h310)
 
